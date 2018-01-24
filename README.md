@@ -1,3 +1,3 @@
 # hello-world
 Initial Practice repository
-Eists to the initial version
+Edits to the initial version
